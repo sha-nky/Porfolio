@@ -1,4 +1,4 @@
 # My portfolio website
 <br>
-<h3>This is my portfolio website</h3>
-<p>I made this website using pure HTML, CSS and JavaScript</p>
+<h3>This is a website made using pure HTML, CSS and JavaScript to showcase my skillset and learning</h3>
+<b>The informations will be updated soon</b>
